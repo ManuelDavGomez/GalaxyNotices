@@ -1,0 +1,160 @@
+.links_style {
+  position: relative;
+  top: 73px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.link_title {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.links_text {
+  padding: 30px 20px 30px 20px;
+}
+
+.earth_img {
+  width: 80%;
+  margin-top: 30px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+.earth_img2 {
+  width: 90%;
+  margin-bottom: 40px;
+  border-radius: 20px;
+}
+
+@media (min-width: 425px) {
+  .earth_img {
+    height: 320px;
+  }
+}
+
+@media (min-width: 640px) {
+  .links_text {
+    padding: 30px 40px 40px 40px;
+    font-size: 18px;
+  }
+
+  .earth_img2 {
+    height: 320px;
+  }
+
+  .earth_img {
+    width: 70%;
+    height: 420px;
+  }
+}
+
+@media (min-width: 768px) {
+  .earth_img {
+    height: 450px;
+  }
+
+  .earth_img2 {
+    height: 390px;
+  }
+
+  .links_text {
+    padding-top: 40px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .earth_img {
+    height: 550px;
+    width: 60%;
+  }
+
+  .earth_img2 {
+    height: 400px;
+    width: 85%;
+  }
+}
+
+@media (min-width: 1152px) {
+  .earth_img {
+    width: 50%;
+  }
+}
+
+@media (min-width: 1280px) {
+  .earth_img {
+    width: 45%;
+  }
+
+  .earth_img2 {
+    height: 450px;
+  }
+}
+
+@media (min-width: 1440px) {
+  .links_text {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+    padding: 10px 40px 10px 40px;
+  }
+
+  .earth_img {
+    width: 40%;
+  }
+
+  .earth_img2 {
+    width: 60%;
+  }
+}
+
+@media (min-width: 1600px) {
+  .links_text {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 2048px) {
+  .earth_img {
+    margin-top: 90px;
+    width: 40%;
+    height: 800px;
+  }
+
+  .links_text {
+    font-size: 28px;
+    margin-bottom: 70px;
+  }
+
+  .earth_img2 {
+    height: 600px;
+  }
+
+  .link_title {
+    margin-top: 90px;
+  }
+
+  .galaxy {
+    height: 800px;
+  }
+
+  .x {
+    margin-bottom: 90px;
+  }
+}
+
+@media (min-width: 2560px) {
+  .earth_img {
+    height: 890px;
+  }
+
+  .links_text {
+    font-size: 32px;
+  }
+}
