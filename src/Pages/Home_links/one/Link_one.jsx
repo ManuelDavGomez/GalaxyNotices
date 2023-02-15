@@ -1,7 +1,7 @@
 import React from "react";
 import "../home_links-styles.css";
-import Earth from "../../../../public/img/earth.jpg";
-import Earth2 from "../../../../public/img/earth2.jpg";
+import Earth from "../../../../public/earth.jpg";
+import Earth2 from "../../../../public/earth2.jpg";
 
 
 const Link_one = () => {

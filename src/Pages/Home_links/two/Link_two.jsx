@@ -1,6 +1,6 @@
 import React from "react";
 import "../home_links-styles.css";
-import Milky from "../../../../public/img/milky.jpg";
+import Milky from "../../../../public/milky.jpg";
 
 const Link_two = () => {
   return (
