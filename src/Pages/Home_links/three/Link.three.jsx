@@ -1,7 +1,7 @@
 import React from "react";
 import "../home_links-styles.css";
-import Betel from '../../../../public/betel.jpg'
-import Betel2 from '../../../../public/betel2.jpg'
+import Betel from '../../../../public/img/betel.jpg'
+import Betel2 from '../../../../public/img/betel2.jpg'
 
 const Link_three = () => {
   return (

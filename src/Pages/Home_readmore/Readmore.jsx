@@ -1,6 +1,6 @@
 import React from "react";
 import "./read.css";
-import Black from "../../../public/black_hole.jpeg";
+import Black from "../../../public/img/black_hole.jpeg";
 
 const Readmore = () => {
   return (
