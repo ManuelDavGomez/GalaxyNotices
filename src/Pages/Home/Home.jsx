@@ -1,8 +1,8 @@
 import React from "react";
 import "../Home/Home.css";
-import Ton from "../../../public/img/assets/ton618.jpg";
+import Ton from "../../../public/img/ton618.jpg";
 import { Link } from "react-router-dom";
-import Galaxy from "../../../public/img/assets/galaxy.jpg";
+import Galaxy from "../../../public/img/galaxy.jpg";
 
 const Home = () => {
   return (
